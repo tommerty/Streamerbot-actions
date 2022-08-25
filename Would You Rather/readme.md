@@ -10,7 +10,7 @@
 - A Twitch channel (affiliated as it's channel points)
 
 ### Step 1 - Downloading:
-1. Download all the files from [here]()
+1. Download all the files from [here](https://ko-fi.com/s/f77c9f39eb)
 > Please note: I stopped uploading these to Github and started using the Gezel Ko-Fi instead.
 2. Download and install the [OBS Source Copy Plugin](https://obsproject.com/forum/resources/source-copy.1261/) if you haven't already.
 ### Step 2 - Getting OBS + Streamerbot ready:
